@@ -1,2 +1,0 @@
-enter tha number
-number is 3
